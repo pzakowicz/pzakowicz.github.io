@@ -1,0 +1,14 @@
+.project-box {
+  flex: 0 0 300px;
+  max-width: 350px;
+  height: auto;
+  box-shadow: 0 0 3px rgb(99, 99, 99);
+  margin: 20px 20px;
+  padding: 0px 10px 10px 10px;
+}
+
+.portfolio_image {
+  width : 150 px;
+  height: 50px;
+  
+}

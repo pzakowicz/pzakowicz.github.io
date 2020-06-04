@@ -1,0 +1,33 @@
+.container {
+  width: 100%;
+  height: 30%;
+  padding-right: 10px;
+  padding-top: 0px;
+  margin: 0px;
+  font-size: 14px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+
+.skill-box {
+  flex: 0 0 200px;
+  max-width: 250px;
+  height: auto;
+  box-shadow: 0 0 3px rgb(99, 99, 99);
+  margin: 20px 20px;
+  padding: 0px 10px 10px 10px;
+}
+
+.skills h3 {
+  margin: 10 auto;
+}
+
+.skills span {
+  margin: 10 auto;
+}
+
+.star {
+  float: right;
+}
