@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="100"
+   width="100"
+   sodipodi:docname="badge_safe4-sa.svg"
+   version="1.1"
+   viewBox="0 0 100 100"
+   id="cert">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="cert"
+     inkscape:window-maximized="1"
+     inkscape:window-y="304"
+     inkscape:window-x="-8"
+     inkscape:cy="49.404806"
+     inkscape:cx="26.083221"
+     inkscape:zoom="4.2269272"
+     showgrid="false"
+     id="namedview33"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#bcbcbc;}.cls-2{fill:#e8e8e8;}.cls-3{fill:#f7ba4c;}.cls-4{fill:#264362;}.cls-5{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">Artboard 1</title>
+  <g
+     transform="scale(1.1104033)"
+     id="g872">
+    <circle
+       class="cls-1"
+       cx="45"
+       cy="45"
+       r="45"
+       id="circle8"
+       style="fill:#333333" />
+    <circle
+       class="cls-2"
+       cx="45"
+       cy="45"
+       r="42.110001"
+       id="circle10"
+       style="fill:#808080" />
+    <path
+       class="cls-3"
+       d="m 45,84.28 a 39.29,39.29 0 0 0 37.33,-27 H 7.67 a 39.29,39.29 0 0 0 37.33,27 z"
+       id="path12"
+       style="fill:#4d4d4d" />
+    <path
+       class="cls-4"
+       d="M 81.24,29.83 H 74.12 L 65.92,14.51 47.36,29.83 H 44.92 L 57.63,19.35 56.84,17.71 42.07,29.83 h -1.65 l 15.88,-13 -0.79,-1.64 -18,14.69 H 35 L 45.71,21 44.92,19.36 32.1,29.83 h -1.59 l 13.87,-11.41 -0.79,-1.64 -16,13 H 25.3 l 9.75,-8 -0.79,-1.64 -11.82,9.69 h -1.6 L 33.73,19.3 32.94,17.66 17.94,29.83 H 8.76 a 39.34,39.34 0 0 0 -1.09,27.4 h 74.66 a 39.34,39.34 0 0 0 -1.09,-27.4 z"
+       id="path14"
+       style="fill:#333333" />
+    <path
+       class="cls-4"
+       d="m 22.38,71.56 1.25,-1.49 a 4.4,4.4 0 0 0 2.87,1.17 c 0.86,0 1.39,-0.34 1.39,-0.91 v 0 c 0,-0.53 -0.33,-0.81 -1.93,-1.22 -1.93,-0.49 -3.18,-1 -3.18,-2.93 v 0 c 0,-1.74 1.4,-2.89 3.36,-2.89 a 5.56,5.56 0 0 1 3.57,1.22 L 28.59,66 a 4.5,4.5 0 0 0 -2.5,-0.95 c -0.81,0 -1.23,0.37 -1.23,0.84 v 0 c 0,0.63 0.41,0.84 2.07,1.26 1.95,0.51 3,1.21 3,2.88 v 0 c 0,1.91 -1.45,3 -3.52,3 a 6.11,6.11 0 0 1 -4.03,-1.47 z"
+       id="path16"
+       style="fill:#808080" />
+    <path
+       class="cls-4"
+       d="M 34.08,63.29 H 36 L 40.14,73 h -2.2 L 37.06,70.85 H 33 L 32.12,73 H 30 Z m 2.22,5.65 -1.3,-3.11 -1.28,3.11 z"
+       id="path18"
+       style="fill:#808080" />
+    <path
+       class="cls-4"
+       d="m 41.08,63.36 h 7.31 v 1.92 h -5.2 v 2 h 4.58 V 69.2 H 43.19 V 73 h -2.11 z"
+       id="path20"
+       style="fill:#808080" />
+    <path
+       class="cls-4"
+       d="m 48.76,69.32 v 0 a 3.66,3.66 0 0 1 3.63,-3.83 c 2.46,0 3.58,1.91 3.58,4 0,0.16 0,0.36 0,0.55 h -5.14 a 1.7,1.7 0 0 0 1.8,1.44 2.41,2.41 0 0 0 1.78,-0.75 l 1.19,1.06 A 3.88,3.88 0 0 1 48.76,69.36 Z M 53.94,68.7 A 1.58,1.58 0 0 0 52.39,67.14 1.64,1.64 0 0 0 50.8,68.7 Z"
+       id="path22"
+       style="fill:#808080" />
+    <path
+       class="cls-4"
+       d="m 64.42,70.89 h -4.69 l -0.34,-1.49 5.27,-6.1 h 1.78 v 5.88 h 1.29 v 1.71 H 66.44 V 73 h -2 z m 0,-1.71 v -3 l -2.55,3 z"
+       id="path24"
+       style="fill:#808080" />
+    <path
+       class="cls-5"
+       d="m 28.84,50.3 2.29,-2.74 a 8.08,8.08 0 0 0 5.26,2.14 c 1.58,0 2.54,-0.63 2.54,-1.66 V 48 c 0,-1 -0.6,-1.48 -3.55,-2.24 -3.55,-0.91 -5.83,-1.89 -5.83,-5.38 v -0.05 c 0,-3.19 2.57,-5.31 6.16,-5.31 a 10.19,10.19 0 0 1 6.54,2.24 l -2,2.92 a 8.26,8.26 0 0 0 -4.58,-1.74 c -1.48,0 -2.26,0.68 -2.26,1.53 V 40 c 0,1.16 0.75,1.53 3.8,2.31 3.57,0.93 5.58,2.21 5.58,5.28 v 0.05 c 0,3.5 -2.67,5.46 -6.46,5.46 a 11.2,11.2 0 0 1 -7.49,-2.8 z"
+       id="path26"
+       style="fill:#808080" />
+    <path
+       class="cls-5"
+       d="m 50.95,35.14 h 3.57 l 7.54,17.73 H 58 L 56.4,48.92 H 49 l -1.61,3.95 H 43.4 Z M 55,45.5 52.66,39.79 50.34,45.5 Z"
+       id="path28"
+       style="fill:#808080" />
+    <path
+       class="cls-4"
+       d="m 55.28,64.85 v 0 a 1.5,1.5 0 0 1 3,0 v 0 a 1.5,1.5 0 0 1 -3,0 z m 2.82,0 v 0 a 1.32,1.32 0 1 0 -2.64,0 v 0 a 1.32,1.32 0 1 0 2.64,0 z M 56.16,64 h 0.71 a 0.67,0.67 0 0 1 0.49,0.17 0.48,0.48 0 0 1 0.13,0.35 v 0 a 0.49,0.49 0 0 1 -0.34,0.49 l 0.39,0.57 h -0.41 l -0.34,-0.51 h -0.28 v 0.51 h -0.35 z m 0.7,0.78 c 0.18,0 0.27,-0.09 0.27,-0.23 v 0 c 0,-0.15 -0.11,-0.23 -0.28,-0.23 h -0.34 v 0.47 z"
+       id="path30"
+       style="fill:#808080" />
+  </g>
+</svg>
